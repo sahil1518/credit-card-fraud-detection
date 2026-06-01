@@ -9,6 +9,11 @@ Built an end-to-end detection system to identify fraud transactions automaticall
 - Python — EDA, SMOTE, Random Forest model
 - Power BI — 3-page interactive dashboard
 
+## Power BI Dashboard
+   -Power BI dashboard has 3 pages - Executive Overview, Risk Monitoring, and BusinessImpact.
+   Full dashboard screenshots are available in the /screenshots folder.
+   The .pbix file is available on request - contact via GitHub or email.
+  
 ## Results
 - ROC-AUC Score: 0.9811
 - Recall: 86% (caught 84 out of 98 fraud transactions)

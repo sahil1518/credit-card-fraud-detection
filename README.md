@@ -37,3 +37,10 @@ Download: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 2. Fraud peaks at specific hours — late night highest risk
 3. V14, V10, V4 are strongest fraud signals
 4. SMOTE balanced training data from 394 to 227,451 fraud samples
+
+ ## Dashboard Screenshots
+![EDA Analysis](screenshots/02_eda_full.png)
+![Feature Importance](screenshots/09_feature_importance.png)
+![Power BI Page 1](screenshots/06_pbi_page1.png)
+![Power BI Page 2](screenshots/07_pbi_page2.png)
+![Power BI Page 3](screenshots/08_pbi_page3.png)
